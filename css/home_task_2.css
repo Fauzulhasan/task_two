@@ -1,0 +1,198 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*header start*/
+.header{
+    overflow: hidden;
+    min-height: 300px;
+    width: 100%;
+    background-color: #FF7100;
+    float: left;
+}
+.header_box{
+    overflow: hidden;
+    min-height: 30px;
+    width: 100%;
+}
+.main_logo{
+    min-height: 30px;
+    width: 25%;
+    text-align: center;
+    margin-top: 40px;
+    padding-left: 10px;
+    float: left;
+}
+.nav_top{
+    min-height: 30px;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.text_one{
+    min-height: 30px;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin: 10px 0px 0px 20px;
+    padding-bottom: 10px;
+}
+.social_logo{
+    min-height: 30px;
+    width: 17%;
+    float: right;
+    overflow: hidden;
+    margin-bottom: 80px;
+}
+.logo_one{
+    height: 30px;
+    width: 15%;
+    border: 1px solid black;
+    float: right;
+    margin-bottom: 60px;
+    margin: 0px 5px 150px 15px;
+}
+/*header end*/
+/*service start*/
+.service{
+    overflow: hidden;
+    min-height: 600px;
+    width: 100%;
+    background-color: white;
+}
+.menu{
+    min-height: 10px;
+    width: auto;
+    background-color: #E6E6E6;
+}
+.text{
+    margin-left: 80px;
+}
+.content{
+    overflow: hidden;
+    min-height: 260px;
+    width: auto;
+}.content_box{
+    overflow: hidden;
+    min-height: 200px;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.content_box_one{
+    overflow: hidden;
+    float: left;
+    min-height: 200px;
+    width: 50%;background-color: aqua;
+}.content_box_text{
+    height: 336px;
+    width: 100%;
+    text-align: center;
+}
+..content_box_two{
+    min-height: 200px;
+    width: 50%;
+    float: right;
+}
+.information{
+    overflow: hidden;
+    min-height: 350px;
+    width: auto;
+}
+.information_item{
+    overflow: hidden;
+    min-height: 300px;
+    width: 100%;
+    background-color: #E6E6E6;
+}
+.single_media{
+    min-height: 240px;
+    width: 40%;
+    background-color: white;
+    float: left;
+    margin: 40px 65px;
+}
+.media_box{
+    min-height: 40px;
+    width: 70%;
+    margin-top: 5px;
+}
+.single_logo{
+    min-height: 40px;
+    width: 15%;
+    float: left;
+    border: 1px solid black;
+}
+.single_text{
+    min-height: 40px;
+    width: 60%;
+    padding-top: 5px;
+}
+.information_box{
+    min-height: 150px;
+    width: 100%
+}
+
+ 
+/*service end*/
+/*address bar start*/
+.address_bar{
+    overflow: hidden;
+    min-height: 100px;
+    width: 100%;
+    background-color: #FF7100;
+    float: left;
+}
+.tool{
+    overflow: hidden;
+    min-height: inherit;
+    float: left;
+    width: 90%;
+}
+.media_logo{
+    overflow: hidden;
+    min-height: 60px;
+    width: 15%;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.logo_box{
+    height: 60px;
+    width: 30%;
+    border: 1px solid black;
+    float: left;
+    margin-left: 4px;
+}
+.nav_bottom{
+    min-height: 30px;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+.address{
+    height: 200px;
+    width: 20%;
+    float: right;
+    margin: 0 auto;
+}
+/*address bar end*/
+/*footer start*/
+.footer{
+    min-height: 50px;
+    width: 100%;
+    overflow: hidden;
+    background-color: #E6E6E6;
+}
+.footer_text{
+    min-height: 30px;
+    width: 100%;
+    margin-top: 10px;
+}
+.text_bar{
+    min-height: inherit;
+    width: 30%;
+    float: left;
+}
+/*footer end*/
